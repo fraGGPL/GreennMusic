@@ -1,0 +1,147 @@
+
+{
+  "minecraft": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/minecraft",
+        "stream": true
+      }
+    ]
+  },
+  "clark": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/clark",
+        "stream": true
+      }
+    ]
+  },
+  "danny": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/danny",
+        "stream": true
+      }
+    ]
+  },
+  "dry_hands": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/dry_hands",
+        "stream": true
+      }
+    ]
+  },
+  "haggstrom": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/haggstrom",
+        "stream": true
+      }
+    ]
+  },
+  "key": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/key",
+        "stream": true
+      }
+    ]
+  },
+  "living_mice": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/living_mice",
+        "stream": true
+      }
+    ]
+  },
+  "mice_on_venus": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/mice_on_venus",
+        "stream": true
+      }
+    ]
+  },
+  "oxygene": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/oxygene",
+        "stream": true
+      }
+    ]
+  },
+  "subwoofer_lullaby": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/subwoofer_lullaby",
+        "stream": true
+      }
+    ]
+  },
+  "sweden": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/sweden",
+        "stream": true
+      }
+    ]
+  },
+  "wet_hands": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/wet_hands",
+        "stream": true
+      }
+    ]
+  },
+  "aria_math": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/creative/aria_math",
+        "stream": true
+      }
+    ]
+  },
+  "biome_fest": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/creative/biome_fest",
+        "stream": true
+      }
+    ]
+  },
+  "blind_spots": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/creative/blind_spots",
+        "stream": true
+      }
+    ]
+  },
+  "dreiton": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/creative/dreiton",
+        "stream": true
+      }
+    ]
+  },
+  "haunt_muskie": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/creative/haunt_muskie",
+        "stream": true
+      }
+    ]
+  },
+  "taswell": {
+    "sounds": [
+      {
+        "name": "minecraft:music/game/creative/taswell",
+        "stream": true
+      }
+    ]
+  }
+}
