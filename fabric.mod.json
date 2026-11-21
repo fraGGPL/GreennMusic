@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "greenmusic",
+  "version": "1.0.5",
+  "name": "Green Music",
+  "description": "Minecraft music player with OGG, WAV and MP3 playlist imports",
+  "authors": [
+    "Green Music Team"
+  ],
+  "environment": "client",
+  "entrypoints": {
+    "main": [
+      "pl.greenmusic.GreenMusicCommon"
+    ],
+    "client": [
+      "pl.greenmusic.GreenMusic"
+    ]
+  },
+  "mixins": [
+    "greenmusic.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": "\u003e\u003d0.18.5",
+    "minecraft": "26.1.1",
+    "java": "\u003e\u003d25",
+    "fabric-api": "*"
+  },
+  "jars": [
+    {
+      "file": "META-INF/jars/jave-core-4.2.0.jar"
+    },
+    {
+      "file": "META-INF/jars/jave-nativebin-linux64-4.2.0.jar"
+    }
+  ]
+}
